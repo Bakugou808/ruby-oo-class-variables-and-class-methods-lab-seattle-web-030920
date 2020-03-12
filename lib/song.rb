@@ -56,6 +56,3 @@ class Song
         artist_hash
     end 
 end
-# test1 = Song.new("Jigga Who?", "jay", "rap")
-# test2 = Song.new("Who that girl?", "Neptunes", "rap")
-# binding.pry
